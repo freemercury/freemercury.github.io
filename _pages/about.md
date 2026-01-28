@@ -33,8 +33,7 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 
 [**DOI**](https://doi.org/10.1126/science.ady9404) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- <span style="color: #d9534f; font-weight: bold;">[ESI Highly Cited Paper]</span> </div>
-</div>
+- <span style="color: #d9534f; font-weight: bold;">[ESI Highly Cited Paper]</span>
 
 [**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Accepted. To be updated.
