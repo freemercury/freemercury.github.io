@@ -93,15 +93,15 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - *2013.09 - 2017.06*, B.S. in Applied Physics, Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💬 Invited Talks
-- *2025.11* Yuduo Guo, “Digital adaptive meta imaging”, Nanjing Institute of Astronomical Optics & Technology (NIAOT), Invited talk.
-- *2025.10* Yuduo Guo, “Advanced imaging technology for astronomy”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
-- *2024.11*	Yuduo Guo, “Computational imaging in Biomedical and Observational Astronomy”, Fudan University, Photonics Project Class, Invited lecture.
-- *2024.11*	Yuduo Guo, “Computational Photography and Computational Optics Research”, Beijing University of Posts and Telecommunications, College of AI, Invited lecture.
-- *2024.09*	Yuduo Guo, “Digital adaptive Meta imaging”, Tsinghua University, Department of astronomy, Invited talk.
-- *2024.08*	Yuduo Guo, “Digital adaptive Meta imaging”, Yunnan Observatories Chinese Academy of Sciences, Invited talk.
-- *2024.04*	Yuduo Guo, “Meta imaging and Digital adaptive optics”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
-- *2023.03*	Yuduo Guo, “An integrated imaging sensor for aberration-corrected 3D photography”, Graduate Forum of the Chinese Optical Society, Tsinghua University, Oral presentation.
-- *2022.11*	Yuduo Guo, “An integrated imaging sensor for aberration-corrected 3D photography”, National Astronomical Observatories (NAOC), Chinese Academy of Sciences, Invited talk.
+- *2025.11*  “Digital adaptive meta imaging”, Nanjing Institute of Astronomical Optics & Technology (NIAOT), Invited talk.
+- *2025.10*  “Advanced imaging technology for astronomy”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
+- *2024.11*	 “Computational imaging in Biomedical and Observational Astronomy”, Fudan University, Photonics Project Class, Invited lecture.
+- *2024.11*	 “Computational Photography and Computational Optics Research”, Beijing University of Posts and Telecommunications, College of AI, Invited lecture.
+- *2024.09*	 “Digital adaptive Meta imaging”, Tsinghua University, Department of astronomy, Invited talk.
+- *2024.08*	 “Digital adaptive Meta imaging”, Yunnan Observatories Chinese Academy of Sciences, Invited talk.
+- *2024.04*	 “Meta imaging and Digital adaptive optics”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
+- *2023.03*	 “An integrated imaging sensor for aberration-corrected 3D photography”, Graduate Forum of the Chinese Optical Society, Tsinghua University, Oral presentation.
+- *2022.11*	 “An integrated imaging sensor for aberration-corrected 3D photography”, National Astronomical Observatories (NAOC), Chinese Academy of Sciences, Invited talk.
 
 
 # 💻 Internships
