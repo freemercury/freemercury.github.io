@@ -22,13 +22,10 @@ I am currently a Postdoctoral Fellow (Assistant Research Fellow) in the Departme
 I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as optical aberration, atmospheric turbulence, and photon noise. My research vision is to architect AI-powered instruments for next-generation observational astronomy. My work has been featured as first-author publications in *Nature*, *Science*, and *Nature Photonics*. I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Now, I'm serving as an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Photonics 2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
