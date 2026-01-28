@@ -70,11 +70,21 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan.
+- *2024* Tsinghua University Shuimu Scholars.
+- *2024* Outstanding Doctoral Dissertation of the Chinese Institute of Electronics (CIE).
+- *2024* Beijing Outstanding Graduates.
+- *2024* Tsinghua University Outstanding Doctoral Dissertation.
+- *2024* Tsinghua University Academic Rising Star (Top 10 per year).
+- *2023* National Scholarship.
+- *2023* International Congress of Basic Science (ICBS) Frontiers of Science Award.
+- *2023* Top 10 Optical Breakthroughs in China.
+- *2023* Best Oral Presentation Award, Graduate Forum of the Chinese Optical Society.
+- *2023* Tsinghua University Future Leaders Scholarship.
+- *2023* Tsinghua University First-Class School Scholarship.  
+- *2023* Tsinghua University Future Leaders Scholarship.
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
