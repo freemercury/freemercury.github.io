@@ -28,9 +28,9 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Photonics 2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Direct observation of atmospheric turbulence with a video-rate wide-field wavefront sensor](https://www.nature.com/articles/s41566-024-01466-3)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuduo Guo†**, Yuhan Hao†, Sen Wan†, Hao Zhang, Laiyu Zhu, Yi Zhang, Jiamin Wu*, Qionghai Dai*, Lu Fang*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
