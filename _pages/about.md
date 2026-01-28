@@ -19,7 +19,9 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow (Assistant Research Fellow) in the Department of Automation at Tsinghua University, working under the supervision of Professor Qionghai Dai. I received my Ph.D. degree in Engineering from Tsinghua University in 2024.
 
-I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**. My work has been featured as first-author publications in *Nature*, *Science*, and *Nature Photonics*. I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Now, I'm serving as an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
+I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**. My work has been featured as first-author publications in *Nature*, *Science*, and *Nature Photonics*. 
+
+I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Now, I'm serving as an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
 
 
 
