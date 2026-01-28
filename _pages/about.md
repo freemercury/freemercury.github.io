@@ -24,7 +24,8 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 
 
 # 📝 Representative Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
@@ -53,7 +54,7 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Photonics 2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2022</div><img src='images/Nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An integrated ima ging sensor for aberration-corrected 3D photography](https://www.nature.com/articles/s41586-022-05306-8)
