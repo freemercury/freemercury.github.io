@@ -106,37 +106,37 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - *2022.11*	 “An integrated imaging sensor for aberration-corrected 3D photography”, National Astronomical Observatories (NAOC), Chinese Academy of Sciences, Invited talk.
 
 # 📝 Other Publications
--***[Cell]*** [Long-term mesoscale imaging of 3D intercellular dynamics across a mammalian organ](https://www.cell.com/cell/fulltext/S0092-8674(24)00917-6)
+- ***[Cell]*** [Long-term mesoscale imaging of 3D intercellular dynamics across a mammalian organ](https://www.cell.com/cell/fulltext/S0092-8674(24)00917-6)
 
 
 Yuanlong Zhang†, Mingrui Wang†, Qiyu Zhu†, **Yuduo Guo**, Bo Liu, Jiamin Li, Xiao Yao, Chui Kong, Yi Zhang, Yuchao Huang, Hai Qi, Jiamin Wu, Zengcai V Guo, Qionghai Dai
 
 
--***[Cell]*** [Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale](https://www.sciencedirect.com/science/article/pii/S0092867421005328)
+- ***[Cell]*** [Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale](https://www.sciencedirect.com/science/article/pii/S0092867421005328)
 
 
 Jiamin Wu†, Zhi Lu†, Dong Jiang†, **Yuduo Guo**, Hui Qiao, Yi Zhang, Tianyi Zhu, Yeyi Cai, Xu Zhang, Karl Zhanghao, Hao Xie, Tao Yan, Guoxun Zhang, Xiaoxu Li, Zheng Jiang, Xing Lin, Lu Fang, Bing Zhou, Peng Xi, Jingtao Fan*, Qionghai Dai*.
 
 
--***[Journal of Biomedical Optics]*** [Noise-robust phase-space deconvolution for light-field microscopy](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-27/issue-7/076501/Noise-robust-phase-space-deconvolution-for-light-field-microscopy/10.1117/1.JBO.27.7.076501.full)
+- ***[Journal of Biomedical Optics]*** [Noise-robust phase-space deconvolution for light-field microscopy](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-27/issue-7/076501/Noise-robust-phase-space-deconvolution-for-light-field-microscopy/10.1117/1.JBO.27.7.076501.full)
 
 
 Tianyi Zhu†, **Yuduo Guo†**, Yi Zhang, Zhi Lu, Xing Lin, Lu Fang*, Jiamin Wu*, Qionghai Dai*
 
 
--***[Optica]*** [High-speed in toto 3D imaging with isotropic resolution by scanning light-field tomography](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-10-1445)
+- ***[Optica]*** [High-speed in toto 3D imaging with isotropic resolution by scanning light-field tomography](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-10-1445)
 
 
 Yifan Chen†, Jiamin Wu†, Bo Xiong†, Zhi Lu, **Yuduo Guo**, Yi Zhang, Jiaqi Fan, Guihua Xiao, Guoxun Zhang, Xiaopeng Li, Xukang Wang, Zhifeng Zhao, Qionghai Dai*
 
 
--***[PhotoniX]*** [Multi-focus light-field microscopy for high-speed large-volume imaging](https://link.springer.com/article/10.1186/s43074-022-00076-y)
+- ***[PhotoniX]*** [Multi-focus light-field microscopy for high-speed large-volume imaging](https://link.springer.com/article/10.1186/s43074-022-00076-y)
 
 
 Yi Zhang†, Yuling Wang†, Mingrui Wang, **Yuduo Guo**, Xinyang Li, Yifan Chen, Zhi Lu, Jiamin Wu*, Xiangyang Ji*, Qionghai Dai*
 
 
--***[AVFOP 2018; Portland, USA]*** *[Oral]* [Large Bandwidth Channelized RF Receiver Based on Chirped Pulses Mixing](https://ieeexplore.ieee.org/document/8550467)
+- ***[AVFOP 2018; Portland, USA]*** *[Oral]* [Large Bandwidth Channelized RF Receiver Based on Chirped Pulses Mixing](https://ieeexplore.ieee.org/document/8550467)
 
 
 **Yuduo Guo**, Feifei Yin, Kun Xu, Yitang Dai*
