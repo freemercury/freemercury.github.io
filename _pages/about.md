@@ -86,13 +86,23 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - *2023* Tsinghua University Future Leaders Scholarship.
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations & Employment
+- *2024.07 - 2026.01 (now)*, Postdoctoral Fellow, Department of Automation, Tsinghua University (THU). 
+- *2020.08 - 2024.06*, Ph.D. in Information and Communication Engineering, Tsinghua University (THU). 
+- *2017.09 - 2020.06*, M.S. in Electronic Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
+- *2013.09 - 2017.06*, B.S. in Applied Physics, Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.11* Yuduo Guo, “Digital adaptive meta imaging”, Nanjing Institute of Astronomical Optics & Technology (NIAOT), Invited talk.
+- *2025.10* Yuduo Guo, “Advanced imaging technology for astronomy”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
+- *2024.11*	Yuduo Guo, “Computational imaging in Biomedical and Observational Astronomy”, Fudan University, Photonics Project Class, Invited lecture.
+- *2024.11*	Yuduo Guo, “Computational Photography and Computational Optics Research”, Beijing University of Posts and Telecommunications, College of AI, Invited lecture.
+- *2024.09*	Yuduo Guo, “Digital adaptive Meta imaging”, Tsinghua University, Department of astronomy, Invited talk.
+- *2024.08*	Yuduo Guo, “Digital adaptive Meta imaging”, Yunnan Observatories Chinese Academy of Sciences, Invited talk.
+- *2024.04*	Yuduo Guo, “Meta imaging and Digital adaptive optics”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
+- *2023.03*	Yuduo Guo, “An integrated imaging sensor for aberration-corrected 3D photography”, Graduate Forum of the Chinese Optical Society, Tsinghua University, Oral presentation.
+- *2022.11*	Yuduo Guo, “An integrated imaging sensor for aberration-corrected 3D photography”, National Astronomical Observatories (NAOC), Chinese Academy of Sciences, Invited talk.
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
