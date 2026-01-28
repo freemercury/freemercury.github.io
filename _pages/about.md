@@ -25,7 +25,7 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 
 # 📝 Representative Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='images/Science.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
