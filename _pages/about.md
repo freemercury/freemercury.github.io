@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow (Assistant Research Fellow) in the Department of Automation at Tsinghua University, working under the supervision of Professor Qionghai Dai. I received my Ph.D. degree in Engineering from Tsinghua University in 2024.
 
-I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**. My work has been featured as first-author publications in *Nature*, *Science*, and *Nature Photonics*. 
+I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**.
 
 I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Now, I'm serving as an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
 
@@ -27,10 +27,10 @@ I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientifi
 
 # 📝 Representative Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='images/Science.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Science.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
+***[Science]*** [Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
 
 **Yuduo Guo†**, Hao Zhang†, Mingyu Li†, Fujiang Yu, Yunjing Wu, Yuhan Hao, Song Huang, Yongming Liang, Xiaojing Lin, Xinyang Li, Jiamin Wu*, Zheng Cai*, Qionghai Dai*
 
@@ -42,10 +42,10 @@ I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientifi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Photonics 2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Direct observation of atmospheric turbulence with a video-rate wide-field wavefront sensor](https://www.nature.com/articles/s41566-024-01466-3)
+***[Nature Photonics]*** [Direct observation of atmospheric turbulence with a video-rate wide-field wavefront sensor](https://www.nature.com/articles/s41566-024-01466-3)
 
 **Yuduo Guo†**, Yuhan Hao†, Sen Wan†, Hao Zhang, Laiyu Zhu, Yi Zhang, Jiamin Wu*, Qionghai Dai*, Lu Fang*
 
@@ -56,10 +56,10 @@ I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientifi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2022</div><img src='images/Nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/Nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An integrated ima ging sensor for aberration-corrected 3D photography](https://www.nature.com/articles/s41586-022-05306-8)
+***[Nature]*** [An integrated ima ging sensor for aberration-corrected 3D photography](https://www.nature.com/articles/s41586-022-05306-8)
 
 Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiachen Xie, Lu Fang*, Qionghai Dai*
 
