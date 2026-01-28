@@ -24,6 +24,22 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
+
+**Yuduo Guo†**, Hao Zhang†, Mingyu Li†, Fujiang Yu, Yunjing Wu, Yuhan Hao, Song Huang, Yongming Liang, Xiaojing Lin, Xinyang Li, Jiamin Wu*, Zheng Cai*, Qionghai Dai*
+
+[**DOI**](https://doi.org/10.1126/science.ady9404) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- <span style="color: #d9534f; font-weight: bold;">[ESI Highly Cited Paper]</span> </div>
+</div>
+
+[**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Accepted. To be updated.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Photonics 2024</div><img src='images/NP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,8 +48,8 @@ I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **C
 
 **Yuduo Guo†**, Yuhan Hao†, Sen Wan†, Hao Zhang, Laiyu Zhu, Yi Zhang, Jiamin Wu*, Qionghai Dai*, Lu Fang*
 
-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Turbulence is a complex and chaotic state of fluid motion. **Atmospheric turbulence** within the Earth’s atmosphere poses fundamental challenges for applications such as remote sensing, free-space optical communications and astronomical observation due to its rapid evolution across temporal and spatial scales. Conventional methods for studying atmospheric turbulence face hurdles in capturing the wide-field distribution of turbulence due to its transparency and **anisoplanatism**. Here we develop **a light-field-based plug-and-play wide-field wavefront sensor (WWS)**, facilitating the direct observation of atmospheric turbulence over **1,100 arcsec** at 30 Hz. The experimental measurements agreed with the von Kármán turbulence model, further verified using a differential image motion monitor. Attached to an 80 cm telescope, our WWS enables clear turbulence profiling of three layers below an altitude of 750 m and high-resolution aberration-corrected imaging without additional deformable mirrors. The WWS also enables prediction of the evolution of turbulence dynamics within **33 ms** using a convolutional recurrent neural network with wide-field measurements, leading to more accurate pre-compensation of turbulence-induced errors during free-space optical communication. Wide-field sensing of dynamic turbulence wavefronts provides new opportunities for studying the evolution of turbulence in the broad field of atmospheric optics.
+[**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Turbulence is a complex and chaotic state of fluid motion. **Atmospheric turbulence** within the Earth’s atmosphere poses fundamental challenges for applications such as remote sensing, free-space optical communications and astronomical observation due to its rapid evolution across temporal and spatial scales. Conventional methods for studying atmospheric turbulence face hurdles in capturing the wide-field distribution of turbulence due to its transparency and **anisoplanatism**. Here we develop **a light-field-based plug-and-play wide-field wavefront sensor (WWS)**, facilitating the direct observation of atmospheric turbulence over **1,100 arcsec** at 30 Hz. The experimental measurements agreed with the von Kármán turbulence model, further verified using a differential image motion monitor. Attached to an 80 cm telescope, our WWS enables clear turbulence profiling of three layers below an altitude of 750 m and high-resolution aberration-corrected imaging without additional deformable mirrors. The WWS also enables prediction of the evolution of turbulence dynamics within **33 ms** using a convolutional recurrent neural network with wide-field measurements, leading to more accurate pre-compensation of turbulence-induced errors during free-space optical communication. Wide-field sensing of dynamic turbulence wavefronts provides new opportunities for studying the evolution of turbulence in the broad field of atmospheric optics.
 </div>
 </div>
 
