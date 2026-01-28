@@ -102,7 +102,3 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - *2024.04*	 “Meta imaging and Digital adaptive optics”, Tsinghua University, Department of astronomy, Advanced Observational Astrophysics, Invited lecture.
 - *2023.03*	 “An integrated imaging sensor for aberration-corrected 3D photography”, Graduate Forum of the Chinese Optical Society, Tsinghua University, Oral presentation.
 - *2022.11*	 “An integrated imaging sensor for aberration-corrected 3D photography”, National Astronomical Observatories (NAOC), Chinese Academy of Sciences, Invited talk.
-
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
