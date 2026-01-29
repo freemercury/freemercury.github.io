@@ -34,10 +34,10 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 **Yuduo Guo†**, Hao Zhang†, Mingyu Li†, Fujiang Yu, Yunjing Wu, Yuhan Hao, Song Huang, Yongming Liang, Xiaojing Lin, Xinyang Li, Jiamin Wu*, Zheng Cai*, Qionghai Dai*
 
 
-[**Code**] (To be updated.)
+-[**Code**] (To be updated.)
 
 
-[**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-[**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 -Accepted. To be updated.
@@ -52,10 +52,10 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 **Yuduo Guo†**, Yuhan Hao†, Sen Wan†, Hao Zhang, Laiyu Zhu, Yi Zhang, Jiamin Wu*, Qionghai Dai*, Lu Fang*
 
 
-[**Code**](https://github.com/freemercury/Widefield_wavefront_sensor)
+-[**Code**](https://github.com/freemercury/Widefield_wavefront_sensor)
 
 
-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VaGAePwAAAAJ&citation_for_view=VaGAePwAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VaGAePwAAAAJ:9yKSN-GCB0IC'></span></strong>
+-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VaGAePwAAAAJ&citation_for_view=VaGAePwAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VaGAePwAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 
 - we develop **a light-field-based plug-and-play wide-field wavefront sensor (WWS)**, facilitating the direct observation of atmospheric turbulence over **1,100 arcsec** at 30 Hz. The experimental measurements agreed with the von Kármán turbulence model, further verified using a differential image motion monitor. Attached to an 80 cm telescope, our WWS enables clear turbulence profiling of three layers below an altitude of 750 m and high-resolution aberration-corrected imaging without additional deformable mirrors. The WWS also enables prediction of the evolution of turbulence dynamics within **33 ms** using a convolutional recurrent neural network with wide-field measurements, leading to more accurate pre-compensation of turbulence-induced errors during free-space optical communication. Wide-field sensing of dynamic turbulence wavefronts provides new opportunities for studying the evolution of turbulence in the broad field of atmospheric optics.
@@ -72,11 +72,11 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - <span style="color: #d9534f; font-weight: bold;">[ESI Highly Cited Paper]</span>
 
 
-[**Code**](https://github.com/freemercury/Aberration_correction_metasensor)
+-[**Code**](https://github.com/freemercury/Aberration_correction_metasensor)
 
 
 
-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VaGAePwAAAAJ&citation_for_view=VaGAePwAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='VaGAePwAAAAJ:u-x6o8ySG0sC'></span></strong>
+-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VaGAePwAAAAJ&citation_for_view=VaGAePwAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='VaGAePwAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 
 - We propose an **integrated scanning light-field imaging sensor**, termed a **meta-imaging sensor**, to achieve high-speed aberration-corrected three-dimensional photography for universal applications without additional hardware modifications. Instead of directly detecting a two-dimensional intensity projection, the meta-imaging sensor captures extra-fine four-dimensional light-field distributions through a vibrating coded microlens array, enabling flexible and precise synthesis of complex-field-modulated images in post-processing. Using the sensor, we achieve high-performance photography up to a **gigapixel with a single spherical lens** without a data prior, leading to **orders-of-magnitude reductions in system capacity and costs for optical imaging**. Even in the presence of dynamic atmosphere turbulence, the meta-imaging sensor enables multisite aberration correction across **1,000 arcseconds on an 80-centimetre ground-based telescope** without reducing the acquisition speed, paving the way for high-resolution synoptic sky surveys. Moreover, high-density accurate depth maps can be retrieved simultaneously, facilitating diverse applications from autonomous driving to industrial inspections.
