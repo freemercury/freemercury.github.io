@@ -21,8 +21,7 @@ I am currently a Postdoctoral Fellow (Assistant Research Fellow) in the Departme
 
 I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**.
 
-I am also serving as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Now, I'm serving as an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
-
+In addition to my research, I serve as a reviewer for several high-impact journals, including *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Currently, I am also an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
 
 
 # 🏆 Representative Publications 
