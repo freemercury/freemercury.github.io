@@ -37,10 +37,11 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 [**Abstract**](https://scholar.google.co.jp/scholar?q=direct+observation+of+atmospheric+turbulence&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
--Accepted. To be updated.
+-The detection limit of astronomical imaging observations is limited by several noise sources. Some of that noise is correlated between neighbouring image pixels and exposures, so in principle could be learned and corrected. We present an astronomical self-supervised transformer-based denoising algorithm (**ASTERIS**), that integrates spatiotemporal information across multiple exposures. Benchmarking on mock data indicates that ASTERIS improves detection limits by **1.0 magnitude at 90% completeness and purity**, while preserving the point spread function and photometric accuracy. Observational validation using data from the James Webb Space Telescope (JWST) and Subaru telescope identifies previously undetectable features, including low-surface-brightness galaxy structures and gravitationally-lensed arcs. Applied to deep JWST images, ASTERIS identifies three times more redshift ≳ 9 galaxy candidates, with **rest-frame ultraviolet luminosity 1.0 magnitude fainter**, than previous methods.
 
 
-[**Code**] (To be updated.)
+[**Code**](https://github.com/freemercury/ASTERIS_THU):https://github.com/freemercury/ASTERIS_THU
+
 </div>
 </div>
 
@@ -55,7 +56,7 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 [**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VaGAePwAAAAJ&citation_for_view=VaGAePwAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VaGAePwAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 
-- we develop **a light-field-based plug-and-play wide-field wavefront sensor (WWS)**, facilitating the direct observation of atmospheric turbulence over **1,100 arcsec** at 30 Hz. The experimental measurements agreed with the von Kármán turbulence model, further verified using a differential image motion monitor. Attached to an 80 cm telescope, our WWS enables clear turbulence profiling of three layers below an altitude of 750 m and high-resolution aberration-corrected imaging without additional deformable mirrors. The WWS also enables prediction of the evolution of turbulence dynamics within **33 ms** using a convolutional recurrent neural network with wide-field measurements, leading to more accurate pre-compensation of turbulence-induced errors during free-space optical communication. Wide-field sensing of dynamic turbulence wavefronts provides new opportunities for studying the evolution of turbulence in the broad field of atmospheric optics.
+-We develop **a light-field-based plug-and-play wide-field wavefront sensor (WWS)**, facilitating the direct observation of atmospheric turbulence over **1,100 arcsec** at 30 Hz. The experimental measurements agreed with the von Kármán turbulence model, further verified using a differential image motion monitor. Attached to an 80 cm telescope, our WWS enables clear turbulence profiling of three layers below an altitude of 750 m and high-resolution aberration-corrected imaging without additional deformable mirrors. The WWS also enables prediction of the evolution of turbulence dynamics within **33 ms** using a convolutional recurrent neural network with wide-field measurements, leading to more accurate pre-compensation of turbulence-induced errors during free-space optical communication. Wide-field sensing of dynamic turbulence wavefronts provides new opportunities for studying the evolution of turbulence in the broad field of atmospheric optics.
 
 
 [**Code**](https://github.com/freemercury/Widefield_wavefront_sensor):https://github.com/freemercury/Widefield_wavefront_sensor
