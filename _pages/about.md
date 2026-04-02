@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow (Assistant Research Fellow) in the Department of Automation at Tsinghua University, working under the supervision of Professor Qionghai Dai. I received my Ph.D. degree in Engineering from Tsinghua University in 2024.
+I am currently an Assistant Research Fellow (Postdoctoral Fellow) in the Department of Automation at Tsinghua University, working under the supervision of Professor Qionghai Dai. I received my Ph.D. in Information and Communication Engineering from Tsinghua University in 2024.
 
-I am dedicated to the interdisciplinary frontier of **AI for Astronomy** and **Computational Astronomical Imaging**, focusing on mitigating fundamental physical problems such as **optical aberration**, **atmospheric turbulence**, and **photon noise**. My research vision is to architect **AI-powered instruments** for **Next-generation Observational Astronomy**.
+My research is dedicated to the advancement of **Physics-informed AI for Science** — a field aimed at dissolving the binary boundary between physical hardware and computational intelligence. By embedding fundamental physical laws directly into neural network architectures, I ensure **high fidelity** and **scientific trustworthiness**, even when operating under extreme conditions. Furthermore, by utilizing AI models to guide and inspire hardware design, I aim to transcend detection limits imposed by classical physics. This approach establishes a new paradigm for scientific discovery, designed to catalyze breakthroughs across complex domains, including **optics**, **astronomy**, and **remote sensing**.
 
-In addition to my research, I serve as a reviewer for several high-impact journals, including *Nature*, *IEEE TCSVT*, *Optica*, *Scientific Reports* and *Optics Express*. Currently, I am also an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
+In addition to my research, I serve as a reviewer for *Nature*, *IEEE TCSVT*, *Optica*, and *Optics Express*. I am also an Executive Editor for the special issue 'Intelligent Optical Astronomical Observation Technology' in *Laser & Optoelectronics Progress*.
 
 
 # 🏆 Representative Publications 
@@ -29,7 +29,7 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2026</div><img src='images/Science.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***[Science 2026]*** [Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://www.nature.com/articles/s41566-024-01466-3)
+***[Science 2026]*** [Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising](https://doi.org/10.1126/science.ady9404)
 
 **Yuduo Guo†**, Hao Zhang†, Mingyu Li†, Fujiang Yu, Yunjing Wu, Yuhan Hao, Song Huang, Yongming Liang, Xiaojing Lin, Xinyang Li, Jiamin Wu*, Zheng Cai*, Qionghai Dai*
 
@@ -67,7 +67,7 @@ In addition to my research, I serve as a reviewer for several high-impact journa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2022</div><img src='images/Nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***[Nature 2022]*** [An integrated ima ging sensor for aberration-corrected 3D photography](https://www.nature.com/articles/s41586-022-05306-8)
+***[Nature 2022]*** [An integrated imaging sensor for aberration-corrected 3D photography](https://doi.org/10.1038/s41586-022-05306-8)
 
 Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiachen Xie, Lu Fang*, Qionghai Dai*
 
@@ -97,12 +97,12 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
 - *2023* Top 10 Optical Breakthroughs in China.
 - *2023* Best Oral Presentation Award, Graduate Forum of the Chinese Optical Society.
 - *2023* Tsinghua University Future Leaders Scholarship.
-- *2023* Tsinghua University First-Class School Scholarship.  
-- *2023* Tsinghua University Future Leaders Scholarship.
+- *2023* Tsinghua University First-Class School Scholarship.
+- *2022* Tsinghua University Future Leaders Scholarship.
 
 
 # 📖 Educations & Employment
-- *2024.07 - 2026.01 (now)*, Postdoctoral Fellow, Department of Automation, Tsinghua University (THU). 
+- *2024.07 - present*, Assistant Research Fellow, Department of Automation, Tsinghua University (THU).
 - *2020.08 - 2024.06*, Ph.D. in Information and Communication Engineering, Tsinghua University (THU). 
 - *2017.09 - 2020.06*, M.S. in Electronic Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
 - *2013.09 - 2017.06*, B.S. in Applied Physics, Beijing University of Posts and Telecommunications (BUPT). 
@@ -143,7 +143,17 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
   Yifan Chen†, Jiamin Wu†, Bo Xiong†, Zhi Lu, **Yuduo Guo**, Yi Zhang, Jiaqi Fan, Guihua Xiao, Guoxun Zhang, Xiaopeng Li, Xukang Wang, Zhifeng Zhao, Qionghai Dai*
 
 
-- ***[PhotoniX]*** [Multi-focus light-field microscopy for high-speed large-volume imaging](https://link.springer.com/article/10.1186/s43074-022-00076-y)
+- ***[Photonics Insights 2026]*** [Computational imaging towards next-generation optical observational astronomy](https://doi.org/10.3788/PI.2025.R09)
+
+  **Yuduo Guo**, Peixin Weng, Hao Zhang, Chen Zhu, Jun Zhang, Jiamin Wu*, Qionghai Dai*
+
+
+- ***[Image and Vision Computing 2025]*** [Hybrid Attention Transformers with fast Fourier convolution for light field image super-resolution](https://doi.org/10.1016/j.imavis.2025.105542)
+
+  Zhicheng Ma, **Yuduo Guo**, Zhaoxiang Liu, Shiguo Lian, Sen Wan
+
+
+- ***[PhotoniX 2022]*** [Multi-focus light-field microscopy for high-speed large-volume imaging](https://doi.org/10.1186/s43074-022-00081-1)
 
 
   Yi Zhang†, Yuling Wang†, Mingrui Wang, **Yuduo Guo**, Xinyang Li, Yifan Chen, Zhi Lu, Jiamin Wu*, Xiangyang Ji*, Qionghai Dai*
