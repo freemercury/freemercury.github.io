@@ -125,7 +125,7 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
   Yuanlong Zhang†, Mingrui Wang†, Qiyu Zhu†, **Yuduo Guo**, Bo Liu, Jiamin Li, Xiao Yao, Chui Kong, Yi Zhang, Yuchao Huang, Hai Qi, Jiamin Wu, Zengcai V Guo, Qionghai Dai
 
 
-- ***[Cell 2022]*** [Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale](https://www.sciencedirect.com/science/article/pii/S0092867421005328)
+- ***[Cell 2021]*** [Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale](https://doi.org/10.1016/j.cell.2021.04.029)
 
 
   Jiamin Wu†, Zhi Lu†, Dong Jiang†, **Yuduo Guo**, Hui Qiao, Yi Zhang, Tianyi Zhu, Yeyi Cai, Xu Zhang, Karl Zhanghao, Hao Xie, Tao Yan, Guoxun Zhang, Xiaoxu Li, Zheng Jiang, Xing Lin, Lu Fang, Bing Zhou, Peng Xi, Jingtao Fan*, Qionghai Dai*.
@@ -143,7 +143,7 @@ Jiamin Wu†, **Yuduo Guo†**, Chao Deng†, Anke Zhang, Hui Qiao, Zhi Lu, Jiac
   Yifan Chen†, Jiamin Wu†, Bo Xiong†, Zhi Lu, **Yuduo Guo**, Yi Zhang, Jiaqi Fan, Guihua Xiao, Guoxun Zhang, Xiaopeng Li, Xukang Wang, Zhifeng Zhao, Qionghai Dai*
 
 
-- ***[Photonics Insights 2026]*** [Computational imaging towards next-generation optical observational astronomy](https://doi.org/10.3788/PI.2025.R09)
+- ***[Photonics Insights 2026]*** [Computational imaging towards next-generation optical observational astronomy](https://www.researching.cn/articles/OJ533e04bcd6cb775d)
 
   **Yuduo Guo**, Peixin Weng, Hao Zhang, Chen Zhu, Jun Zhang, Jiamin Wu*, Qionghai Dai*
 
