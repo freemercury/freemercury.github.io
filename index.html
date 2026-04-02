@@ -260,8 +260,8 @@
     .timeline { display: flex; flex-direction: column; gap: 0; }
     .tl-item {
       display: grid;
-      grid-template-columns: 9.5em 1fr;
-      gap: 1em;
+      grid-template-columns: max-content 1fr;
+      gap: .6em;
       padding: .7em 0;
       border-bottom: 1px solid var(--border-light);
       align-items: baseline;
@@ -318,7 +318,7 @@
       .masthead__nav { display: none; }
       .paper-box { flex-direction: column; }
       .paper-img-wrap { width: 100%; max-width: 320px; }
-      .tl-item { grid-template-columns: 7em 1fr; }
+      .tl-item { grid-template-columns: max-content 1fr; gap: .5em; }
     }
   </style>
 </head>
